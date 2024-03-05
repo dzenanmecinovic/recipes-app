@@ -9,23 +9,23 @@ import { Recipe } from '../recipe.model';
 export class RecipeListComponent {
   recipes: Recipe[] = [
     new Recipe(
-      'A Test Recipe',
-      'This is simply a test',
+      'A Test Recipe 1',
+      'This is simply a test 1',
       'https://www.southernliving.com/thmb/HSEUOjJVCl4kIRJRMAZ1eblQlWE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Millionaire_Spaghetti_019-34e9c04b1ae8405088f53450a048e413.jpg'
     ),
     new Recipe(
-      'A Test Recipe',
-      'This is simply a test',
+      'A Test Recipe 2',
+      'This is simply a test 2',
       'https://www.southernliving.com/thmb/HSEUOjJVCl4kIRJRMAZ1eblQlWE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Millionaire_Spaghetti_019-34e9c04b1ae8405088f53450a048e413.jpg'
     ),
     new Recipe(
-      'A Test Recipe',
-      'This is simply a test',
+      'A Test Recipe 3',
+      'This is simply a test 3',
       'https://www.southernliving.com/thmb/HSEUOjJVCl4kIRJRMAZ1eblQlWE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Millionaire_Spaghetti_019-34e9c04b1ae8405088f53450a048e413.jpg'
     ),
     new Recipe(
-      'A Test Recipe',
-      'This is simply a test',
+      'A Test Recipe 4',
+      'This is simply a test 4',
       'https://www.southernliving.com/thmb/HSEUOjJVCl4kIRJRMAZ1eblQlWE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Millionaire_Spaghetti_019-34e9c04b1ae8405088f53450a048e413.jpg'
     ),
   ];
