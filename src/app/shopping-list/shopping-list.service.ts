@@ -3,6 +3,7 @@ import { Ingredient } from '../shared/ingredient.model';
 
 export class ShoppingListService {
   ingredientsChanged = new EventEmitter<Ingredient[]>();
+  // ingredients: promenio sam se
 
   private ingredients: Ingredient[] = [
     new Ingredient('Apples', 5),
